@@ -1,6 +1,7 @@
 # Assignment no2 — Advanced CSS: Flexbox & Grid
 
-**Name:** Alina
+**Name:** Alina Ibadulla
+
 **Group:** SE-2540
 
 Project: NOVA — Creative Studio. NOVA is a creative digital studio website created to demonstrate the use of modern CSS layout techniques. The website combines Flexbox, CSS Grid, Grid Areas, responsive design, and hover effects.
