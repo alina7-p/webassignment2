@@ -6,6 +6,8 @@
 
 Project: NOVA — Creative Studio. NOVA is a creative digital studio website created to demonstrate the use of modern CSS layout techniques. The website combines Flexbox, CSS Grid, Grid Areas, responsive design, and hover effects.
 
+! GitHub Pages Link: 
+
 
 Task 0 — Navigation Bar
 
